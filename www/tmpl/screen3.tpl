@@ -6,7 +6,7 @@
                 
                 <div class="box w60 space padding1">
                     
-                    <h3>ERKLÄRUNG:</h3><div>Die ArtMap zeigt alles, was Gera in Sachen Kunst zu bieten hat. Sie beinhaltet neben Streetart auch Projektionen, Skulpturen und Ausstellungen. Sie bietet dazu auch noch individuelle Routen die man durch Hilfe eines Filters selber anlegen kann. Die Routen kann man nach Künstlern oder Ort aussuchen und man bekommt die genauen Informationen zum Künstler.</div>
+                    <h2>ERKLÄRUNG:</h2><div class="fontsize1">Die ArtMap zeigt alles, was Gera in Sachen Kunst zu bieten hat. Sie beinhaltet neben Streetart auch Projektionen, Skulpturen und Ausstellungen. Sie bietet dazu auch noch individuelle Routen die man durch Hilfe eines Filters selber anlegen kann. Die Routen kann man nach Künstlern oder Ort aussuchen und man bekommt die genauen Informationen zum Künstler.</div>
                     </div>
                 
                 

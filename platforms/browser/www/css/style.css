@@ -43,8 +43,8 @@ html,body {
 }
 
 .padding3 {
-    padding: 1vw;
-    padding-top: 2vh;
+    padding: 2vw;
+    padding-top: 1vh;
 }
 .space{
 
@@ -160,6 +160,13 @@ button {
     background-position: center 40%;
 }
 
+.fontsize1{
+    font-size: 140%;
+}
+
+.fontsize2{
+    font-size: 130%;
+}
 
 
 .size{

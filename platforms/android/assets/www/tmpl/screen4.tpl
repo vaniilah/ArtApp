@@ -1,15 +1,15 @@
 <div class="header">
-    <div class="home pageBtn" data-task="back">Home</div>
+    <div class="fontsize2 home pageBtn" data-task="back">HOME</div>
 
     <img class=" filterbtn pageBtn" data-task="myCtrl.openFilter" src="img/filter.png"> 
 
 </div>
 
-<div class="h5"></div> 
+ 
 
 <div class="w230" >
 
-    <img src="img/180118_Gera_Art_MAP_Text_in_Pfade_NEU_1.svg">
+    <img src="img/180118_Gera_Art_MAP_Text_in_Pfade_NEU.svg">
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div id="filter" class="box w60 padding3" style="display: none"> 
 
-    <h3>FILTER:</h3>
+    <h2>FILTER:</h2>
     <div>
         <img src="img/kasten.png" />
         <div>Gruberstraße 146</div>
