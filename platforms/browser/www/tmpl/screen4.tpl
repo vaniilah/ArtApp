@@ -1,13 +1,13 @@
 <div class="header">
-    <div class="fontsize2 home pageBtn" data-task="back">HOME</div>
+    <div class="padding4 fontsize2 home pageBtn" data-task="back">HOME</div>
 
-    <img class=" filterbtn pageBtn" data-task="myCtrl.openFilter" src="img/filter.png"> 
+    <img class="padding4 filterbtn pageBtn" data-task="myCtrl.openFilter" src="img/filter.png"> 
 
 </div>
 
  
 
-<div class="w230" >
+<div class="padding5 w230" >
 
     <img src="img/180118_Gera_Art_MAP_Text_in_Pfade_NEU.svg">
 
