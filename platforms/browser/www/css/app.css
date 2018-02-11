@@ -12,13 +12,13 @@
 
 /* Font */
 @font-face {
-  font-family: openregular;
-  src: url('font/opensans-regular-webfont.ttf');
+  font-family: mreavesreg;
+  src: url('font/MrEavesXLModNarOT-Reg.ttf');
 }
 
 @font-face {
-  font-family: openlight;
-  src: url('font/opensans-light-webfont.ttf');
+  font-family: mreavesreg;
+  src: url('font/MrEavesXLModNarOT-Reg.ttf');
 }
 
 
@@ -59,7 +59,7 @@ body {
     height: 100vh;
     overflow: none;
 
-    font-family: openregular;
+    font-family: mreavesreg;
     background-color: white;
     color: black;
 }
