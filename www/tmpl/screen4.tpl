@@ -1,5 +1,5 @@
 <div class="header">
-    <div class="padding4 fontsize2 home pageBtn" data-task="back">HOME</div>
+    <div class="padding4 fontsize2 home pageBtn" data-page="home">HOME</div>
 
     <img class="padding4 filterbtn pageBtn" data-task="myCtrl.openFilter" src="img/filter.png"> 
 
